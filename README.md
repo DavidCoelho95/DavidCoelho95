@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcoelho95&label=Profile%20views&color=0e75b6&style=flat" alt="davidcoelho95" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👨🏻‍💻Senior Software QA Engineer</h3>
 <p align="left">
+Profissional com 9 anos de experiência na área de Qualidade de Software, possuo graduação em Sistemas de Informação pela UNIME, com estudo complementar(aluno especial) em Engenharia de Software no mestrado UFBA.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
