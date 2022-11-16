@@ -18,7 +18,7 @@ Tenho experiência como QA em:
 
 Minhas principais atribuições são:
 
-Planejar/Criar/Executar casos de testes
+Automatizar testes/Planejar/Criar/Executar casos de testes
 Reportar Falhas/Melhorias
 Automatizar/Executar testes
 
@@ -32,7 +32,7 @@ Entre os principais testes realizados estão:
 - Testes automatizados 
 - Testes mobile
 
-Atualmente trabalho em equipes que utilizam a metodologia ágil Scrum e Kanban, participo ativamente de todo o ciclo de vida do projeto (acredito na ideia que o teste/qualidade deva estar presente em um projeto desde a fase de planejamento, isso evita muitas surpresas antes da chegada de fato da história em desenvolvimento).
+Atualmente trabalho em equipes que utilizam a metodologia ágil, participo ativamente de todo o ciclo de vida do projeto (acredito na ideia que o teste/qualidade deva estar presente em um projeto desde a fase de planejamento, isso evita muitas surpresas antes da chegada de fato da história em desenvolvimento).
 </p>
 
 <h3 align="left">Tecnologias</h3>
