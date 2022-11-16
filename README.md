@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, seja bem vindo(a)! Sou David Coelho!</h1>
-<h3 align="center">Senior Software QA Engineer</h3>
+<h3 align="center">Vamos compartilhar conhecimento juntos!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidcoelho95&label=Profile%20views&color=0e75b6&style=flat" alt="davidcoelho95" /> </p>
 
