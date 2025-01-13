@@ -5,7 +5,7 @@
 
 <h3 align="left">👨🏻‍💻Senior Software QA Engineer</h3>
 <p align="left">
-Profissional de Qualidade de Software (QA) com mais de 10 anos de experiência na área de Tecnologia da Informação, bacharel em Sistemas de Informação pela UNIME (Lauro de Freitas). Especialista em automação de testes com foco em APIs, aplicações mobile e Web. Reconhecido pela habilidade em identificar e corrigir falhas críticas, otimizando a qualidade e confiabilidade dos sistemas em diversos segmentos.
+Profissional de Qualidade de Software (QA) com mais de 10 anos de experiência na área de Tecnologia da Informação, bacharel em Sistemas de Informação pela UNIME (Lauro de Freitas). Especialista em automação de testes com foco em APIs, aplicações mobile e Web. Reconhecido pela habilidade em identificar e ajudar na correção de falhas críticas, otimizando a qualidade e confiabilidade dos sistemas em diversos segmentos.
 
 Proativo, organizado e com uma forte disposição para aprender novas ferramentas e tecnologias, contribuo ativamente para o sucesso dos projetos. Minha abordagem colaborativa e orientada a resultados assegura entregas de alta qualidade dentro de prazos desafiadores.
 
