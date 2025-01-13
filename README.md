@@ -5,7 +5,7 @@
 
 <h3 align="left">👨🏻‍💻Senior Software QA Engineer</h3>
 <p align="left">
-Sou QA (Analista de Testes) com mais de 09 anos de experiência na área de Tecnologia da Informação. Atuando, principalmente na área de Testes e Qualidade de Software, voltado para Automação e Testes manuais, experiência em testes de API, mobile e Web. Reconhecido por atuar diretamente na melhoria da qualidade de sistemas, identificando erros e melhorias na fase de desenvolvimento do sistema. Com aptidão á estudar e aprender novas ferramentas/tecnologias em prol dos projetos em que atuo. Proativo e bem organizado, com excelentes competências, buscando sempre harmonização com as equipes e melhor resultado na qualidade final da entrega.
+Sou QA (Analista de Testes) com mais de 11 anos de experiência na área de Tecnologia da Informação. Atuando, principalmente na área de Testes e Qualidade de Software, voltado para Automação e Testes manuais, experiência em testes de API, mobile e Web. Reconhecido por atuar diretamente na melhoria da qualidade de sistemas, identificando erros e melhorias na fase de desenvolvimento do sistema. Com aptidão á estudar e aprender novas ferramentas/tecnologias em prol dos projetos em que atuo. Proativo e bem organizado, com excelentes competências, buscando sempre harmonização com as equipes e melhor resultado na qualidade final da entrega.
 
 Tenho experiência como QA em:
 - Aplicações Web
