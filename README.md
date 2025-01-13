@@ -5,32 +5,9 @@
 
 <h3 align="left">👨🏻‍💻Senior Software QA Engineer</h3>
 <p align="left">
-Sou QA (Analista de Testes) com mais de 11 anos de experiência na área de Tecnologia da Informação. Atuando, principalmente na área de Testes e Qualidade de Software, voltado para Automação e Testes manuais, experiência em testes de API, mobile e Web. Reconhecido por atuar diretamente na melhoria da qualidade de sistemas, identificando erros e melhorias na fase de desenvolvimento do sistema. Com aptidão á estudar e aprender novas ferramentas/tecnologias em prol dos projetos em que atuo. Proativo e bem organizado, com excelentes competências, buscando sempre harmonização com as equipes e melhor resultado na qualidade final da entrega.
+Profissional de Qualidade de Software (QA) com mais de 10 anos de experiência na área de Tecnologia da Informação, bacharel em Sistemas de Informação pela UNIME (Lauro de Freitas). Especialista em automação de testes com foco em APIs, aplicações mobile e Web. Reconhecido pela habilidade em identificar e corrigir falhas críticas, otimizando a qualidade e confiabilidade dos sistemas em diversos segmentos.
 
-Tenho experiência como QA em:
-- Aplicações Web
-- Sites Desktopa
-- Sites Mobile
-- Sites Responsivos
-- Sites em React
-- Aplicativos mobile (iOS e Android)
-- SAP
-
-Minhas principais atribuições são:
-
-Automatizar testes/Planejar/Criar/Executar casos de testes
-Reportar Falhas/Melhorias
-Automatizar/Executar testes
-
-Entre os principais testes realizados estão:
-- Testes funcionais
-- Testes de interface
-- Testes exploratórios
-- Testes de regressão
-- Testes de API 
-- Testes de Webservice
-- Testes automatizados 
-- Testes mobile
+Proativo, organizado e com uma forte disposição para aprender novas ferramentas e tecnologias, contribuo ativamente para o sucesso dos projetos. Minha abordagem colaborativa e orientada a resultados assegura entregas de alta qualidade dentro de prazos desafiadores.
 
 Atualmente trabalho em equipes que utilizam a metodologia ágil, participo ativamente de todo o ciclo de vida do projeto (acredito na ideia que o teste/qualidade deva estar presente em um projeto desde a fase de planejamento, isso evita muitas surpresas antes da chegada de fato da história em desenvolvimento).
 </p>
